@@ -16,3 +16,6 @@ ga('send', 'pageview');<br>
 </script>
 <!-- End Google Analytics -->
 
+
+<img src="https://https://github.com/Bodhi360/Google-analytics-code-in-Adobe-Muse/blob/master/Muse_meta%20tag.png">
+<a href="http://www.bodhi360.cloud/">Bodhi360</a>
