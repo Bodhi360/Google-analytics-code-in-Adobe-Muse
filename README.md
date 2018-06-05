@@ -16,6 +16,9 @@ ga('send', 'pageview');<br>
 </script>
 <!-- End Google Analytics -->
 
+•‘UA-xxxxx-y’ should be replaced With "Property Id" Also called the
+<br>('tracking Id') of the google analytics property
+
 
 <img src="https://github.com/Bodhi360/Google-analytics-code-in-Adobe-Muse/blob/master/Muse_meta%20tag.png">
 <a href="http://www.bodhi360.cloud/">Bodhi360</a>
