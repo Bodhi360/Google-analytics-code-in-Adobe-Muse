@@ -1,5 +1,5 @@
 # Google-analytics-code-in-Adobe-Muse
-< span style =text- align="center" How to insert Google analytics code in Adobe Muse</span><br>
+<span style =text-align:"center";> How to insert Google analytics code in Adobe Muse</span><br>
 Click Adobe Muse and open the page you want to edit in Design mode. Choose Page > Page Properties and paste the code in the Metadata section of the Page Properties window. Or simply paste the code anywhere on the page to embed it. The tracking script won’t affect the page’s layout.
 
  Add the tracking code to a master page to quickly add tracking to all of the related pages. Choose page properties form the page menu and paste the tracking code in to the meta tag Section on the page.
